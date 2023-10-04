@@ -113,7 +113,7 @@ git commit -am "se solucio conflicto"
 ======GITHUB
 despues de crear un repositorio y tener url
 git remote add origin hhtps:///-.......
-git pull origin main
+git pull origin master
 
 git remote
 git remote -v
